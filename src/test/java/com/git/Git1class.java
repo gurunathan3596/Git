@@ -13,4 +13,14 @@ public class Git1class {
         System.out.println(678);
 	}
 	
+	public void test4() {
+        System.out.println(987);
+	}
+	public void test5() {
+        System.out.println(765);
+	}
+	public void test6() {
+        System.out.println(321);
+	}
+	
 }
